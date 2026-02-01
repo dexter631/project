@@ -1,0 +1,37 @@
+.text {
+  width: 100px;
+  height: 70px;
+  background-color: gray;
+}
+
+p {
+  font-size: 2em;
+}
+
+.print {
+  font-size: 3rem;
+}
+
+.box1 {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+}
+
+.box {
+  width: 50%;
+  height: 200px;
+  background-color: gray;
+}
+
+.write {
+  color: #ff5733;
+}
+
+.read {
+  color: rgb(200, 73, 83);
+}
+
+.game {
+  color: rgba(200, 50, 90, 0.5);
+}
