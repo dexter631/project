@@ -1,0 +1,13 @@
+.block {
+  display: block;
+  display: inline;
+}
+
+.inline {
+  display: inline;
+  display: block;
+}
+
+.container {
+  display: block;
+}
