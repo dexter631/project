@@ -1,0 +1,29 @@
+.button:hover {
+  background-color: blue;
+  color: white;
+}
+
+.button2:active {
+  background-color: blue;
+}
+
+.input:focus {
+  border: 5px solid;
+  border-color: #007bff;
+}
+
+.list-item:nth-child(odd) {
+  background-color: red;
+}
+
+.list-item:nth-child(even) {
+  background-color: purple;
+}
+
+.list-item:first-child {
+  font-weight: bold;
+}
+
+.list-item:last-child {
+  color: green;
+}

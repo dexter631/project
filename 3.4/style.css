@@ -1,0 +1,38 @@
+.button:hover {
+  background-color: purple;
+}
+
+.input:focus {
+  border: 5px solid;
+  border-color: green;
+}
+.list-item:first-child {
+  background-color: blue;
+  font-weight: bold;
+}
+
+.list-item:last-child {
+  background-color: yellow;
+}
+
+.text:hover {
+  background-color: blue;
+}
+
+.input1:focus {
+  border: 7px solid;
+  border-color: aqua;
+}
+
+.list:nth-child(odd) {
+  background-color: red;
+}
+
+.text1:first-child:hover {
+  background-color: red;
+}
+
+.text1:last-child:focus {
+  border: 5px solid;
+  border-color: purple;
+}
