@@ -1,0 +1,72 @@
+.block {
+  display: block;
+}
+
+.inline {
+  display: inline;
+}
+
+.flex {
+  display: flex;
+}
+
+.print {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  flex-flow: column wrap;
+}
+
+.game {
+  display: flex;
+  justify-content: center;
+  align-items: end;
+  align-content: baseline;
+}
+.film {
+  display: flex;
+}
+
+.film1 {
+  flex-grow: 10;
+}
+
+.film2 {
+  flex-shrink: 3;
+}
+
+.film3 {
+  flex-basis: 200px;
+  flex: 6 7 200px;
+}
+
+.food {
+  display: flex;
+}
+
+.item1 {
+  width: 50%;
+}
+
+.item2 {
+  width: auto;
+}
+
+.item3 {
+  width: 100px;
+}
+
+.school {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: blue;
+}
+
+.building {
+  flex-direction: column;
+  width: auto;
+  flex-grow: 100;
+  flex-shrink: 100;
+  flex-basis: 30%;
+}
