@@ -45,15 +45,18 @@
 }
 
 .item1 {
-  width: 50%;
+  background-color: blue;
+  flex: 0 0 50%;
 }
 
 .item2 {
-  width: auto;
+  background-color: yellow;
+  flex: 1;
 }
 
 .item3 {
-  width: 100px;
+  background-color: red;
+  flex: 0 0 100px;
 }
 
 .school {
@@ -64,9 +67,24 @@
 }
 
 .building {
-  flex-direction: column;
-  width: auto;
-  flex-grow: 100;
-  flex-shrink: 100;
-  flex-basis: 30%;
+  display: flex;
+}
+
+.r {
+  background-color: black;
+  height: 200px;
+  color: white;
+  flex: 1 1 50px;
+}
+
+.t {
+  background-color: purple;
+  height: 150px;
+  flex: 0 0 30px;
+}
+
+.h {
+  background-color: aqua;
+  height: 120px;
+  flex: 1 1 70px;
 }
