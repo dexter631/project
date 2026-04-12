@@ -1,0 +1,53 @@
+.logoip {
+  display: flex;
+}
+
+.logo-baar {
+  margin-right: 120px;
+}
+
+.search1 {
+  margin-right: 210px;
+}
+
+.logotup {
+  display: flex;
+}
+
+.homepage {
+  margin-left: 10px;
+  margin-right: 685px;
+}
+
+a {
+  margin-right: 48px;
+}
+
+.leftPng {
+  display: flex;
+}
+
+.buttons-3 {
+  margin-left: 408.15px;
+  margin-right: 408.15px;
+}
+
+.leftPng-4 {
+  display: flex;
+  background-color: black;
+  color: white;
+}
+.buttons-4 {
+  margin-left: 849.3px;
+}
+
+.leftPng-5 {
+  display: flex;
+  background-color: black;
+  color: white;
+}
+
+.search-box {
+  margin-left: 50px;
+  margin-right: 300px;
+}
