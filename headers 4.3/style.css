@@ -2,6 +2,14 @@
   display: flex;
   margin-bottom: 35px;
   align-items: center;
+  width: 1440px;
+  height: 65px;
+  padding-left: 40px;
+}
+
+.active {
+  text-decoration: none;
+  color: #5c53e9;
 }
 
 .button-bar {
@@ -9,6 +17,7 @@
   height: 41px;
   background-color: black;
   color: white;
+  border-radius: 8px;
 }
 
 .logo-baar {
@@ -17,16 +26,48 @@
 
 .search1 {
   margin-right: 210px;
+  width: 352px;
+  height: 41px;
+  border: 1px solid #dfdfdf;
+  border-radius: 8px;
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  padding-left: 12px;
+}
+
+input {
+  border: none;
+  background-color: transparent;
 }
 
 .logotup {
   display: flex;
   margin-bottom: 35px;
   align-items: center;
+  width: 1440px;
+  height: 80px;
+  padding-left: 48px;
 }
 
 .search-baar {
   margin-right: 8px;
+}
+
+.active-2 {
+  text-decoration: none;
+  color: #5856d6;
+}
+
+button {
+  width: 66px;
+  height: 40px;
+  padding: 10px;
+  gap: 6px;
+  background-color: #5c53e9;
+  color: white;
+  border: none;
+  border-radius: 6px;
 }
 
 .bag {
@@ -34,7 +75,7 @@
 }
 
 .homepage {
-  margin-left: 10px;
+  margin-left: 32px;
   margin-right: 685px;
 }
 
@@ -46,11 +87,20 @@ a {
   display: flex;
   margin-bottom: 35px;
   align-items: center;
+  width: 1440px;
+  height: 80px;
+  padding-left: 36px;
 }
 
 .buttons-3 {
   margin-left: 408.15px;
   margin-right: 408.15px;
+  display: flex;
+  gap: 40px;
+}
+
+.buttons-3 a {
+  margin: 0px;
 }
 
 .leftPng-4 {
@@ -59,9 +109,13 @@ a {
   color: white;
   margin-bottom: 35px;
   align-items: center;
+  width: 1440px;
+  height: 80px;
+  padding-left: 36px;
+  border-radius: 10px;
 }
 .buttons-4 {
-  margin-left: 849.3px;
+  margin-left: 663px;
   display: flex;
 }
 
@@ -70,13 +124,33 @@ a {
   background-color: black;
   color: white;
   align-items: center;
+  width: 1440px;
+  height: 80px;
+  padding-left: 36px;
+  border-radius: 10px;
 }
 
 .search-box {
   margin-left: 50px;
-  margin-right: 485px;
+  margin-right: 299px;
+  width: 500px;
+  height: 44px;
+  border: 1px solid #d6d8de;
+  border-radius: 10px;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  color: white;
 }
 
 .buttons-5 {
   display: flex;
+}
+
+.search-5 {
+  margin-left: 20px;
+}
+
+.image-5 {
+  margin-right: 10px;
 }
