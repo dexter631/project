@@ -1,0 +1,92 @@
+.card-5 {
+  background-color: black;
+  display: flex;
+  align-items: center;
+  gap: 53px;
+  padding: 40px;
+  border-radius: 32px;
+}
+
+.badge-5 {
+  background-color: #191919;
+  color: white;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 27px;
+  width: fit-content;
+  padding: 0 16px;
+  border-radius: 6px;
+  margin-bottom: 48.44px;
+}
+
+.episode-5 {
+  color: #118da8;
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 27px;
+  margin-bottom: 17.56px;
+}
+
+.title-5 {
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 70.4px;
+  color: white;
+  margin-bottom: 28px;
+}
+
+.subtitle-5 {
+  color: white;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 33px;
+  margin-bottom: 18px;
+}
+
+.button-5 {
+  background-color: #118da8;
+  width: 208px;
+  height: 51px;
+  border-radius: 6px;
+  color: white;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  border: none;
+  padding: 12px 15px 12px 20px;
+}
+
+.card-6 {
+  padding: 20px 20px 20px;
+}
+
+.author-6 {
+  color: #86928b;
+  margin-bottom: 10px;
+}
+
+.materials-6 {
+  margin-top: 10px;
+}
+
+.price-6 {
+  margin-top: 30px;
+  color: #598d66;
+}
+
+.button-6 {
+  width: 250px;
+  height: 50px;
+  padding: 14.5px 81.5px 14.5px 81.5px;
+  background-color: white;
+  color: #598d66;
+  border-color: #598d66;
+  margin-top: 10px;
+}
+
+.title-7 {
+  font-size: 24px;
+  font-weight: 400;
+  color: #2e363e;
+  line-height: 143%;
+}
